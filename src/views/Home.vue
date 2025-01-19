@@ -22,10 +22,9 @@
             .content-wrapper.px-lg-4.pt-lg-4.px-xxl-5.py-xxl-5.text-start
               p.home-main-title UNIDAD {{ `${globalData.numeroUnidad}` }}
               h1.home-title.mb-4 {{ globalData.tituloUnidad }}
-              p.descripcion.mb-4 Esta unidad, Desarrollo Físico y Motor en Niños y Adolescentes, explora los cambios corporales y habilidades motrices clave desde la niñez hasta la adolescencia. Los estudiantes comprenderán cómo factores como genética, nutrición y entorno influyen en el crecimiento y las transformaciones hormonales de la pubertad, lo cual les permitirá apoyar a los jóvenes en cada etapa de su desarrollo.
+              p.descripcion.mb-4 Desde los primeros años de vida, los vínculos afectivos desempeñan un papel esencial en el desarrollo emocional y social de los niños. En esta primera unidad, se explorará cómo la afectividad y las relaciones interpersonales impactan el crecimiento integral durante la infancia, abordando conceptos clave como la emotividad, el apego y los vínculos seguros. Además, se analizarán los estadíos del desarrollo afectivo y las teorías de autores reconocidos que han aportado al entendimiento de la afectividad y sus componentes.
 
-              p.descripcion.mb-4.mb-lg-5.pb-lg-4.text-bold ¡El éxito está en cada esfuerzo que haces hoy!
-
+              p.descripcion.mb-4.mb-lg-5.pb-lg-4.text-bold ¡Prepárese para aprender cómo los vínculos afectivos transforman el desarrollo emocional en la infancia y cómo puede ser parte de ese cambio positivo!
               .button-container.mt-auto
                 router-link.btn-iniciar.w-100.w-md-auto(:to="{ name: 'introduccion' }")
                   .iniciar-btn-container.w-100.w-md-auto

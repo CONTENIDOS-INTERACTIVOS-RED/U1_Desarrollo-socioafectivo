@@ -17,7 +17,7 @@ export default {
       },
     ],
     numeroUnidad: '1',
-    tituloUnidad: 'Titulo de la unidad',
+    tituloUnidad: 'Afectividad, vínculo y relaciones',
   },
   menuPrincipal: {
     menu: [
@@ -31,44 +31,32 @@ export default {
         nombreRuta: 'tema1',
         icono: 'far fa-file-alt',
         numero: '1',
-        titulo: 'Unidad',
+        titulo: 'Afectividad, vínculo y relaciones',
         desarrolloContenidos: true,
         subMenu: [
           {
             icono: 'far fa-file-alt',
             numero: '1.1',
-            titulo: 'Título de segundo nivel',
+            titulo: 'La afectividad para la psicología',
             hash: 't_1_1',
           },
           {
             icono: 'far fa-file-alt',
             numero: '1.2',
-            titulo: 'Acordeón',
+            titulo: 'La afectividad en la filosofía',
             hash: 't_1_2',
           },
           {
             icono: 'far fa-file-alt',
             numero: '1.3',
-            titulo: 'Slider',
+            titulo: 'La afectividad y sus componentes',
             hash: 't_1_3',
           },
           {
             icono: 'far fa-file-alt',
             numero: '1.4',
-            titulo: 'Pestañas',
+            titulo: 'Etapas del desarrollo afectivo, según Piaget',
             hash: 't_1_4',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.5',
-            titulo: 'Infografia interactiva',
-            hash: 't_1_5',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.6',
-            titulo: 'Infografia interactiva',
-            hash: 't_1_6',
           },
         ],
       },
@@ -76,38 +64,33 @@ export default {
         nombreRuta: 'tema2',
         icono: 'far fa-file-alt',
         numero: '2',
-        titulo: 'Unidad',
+        titulo: 'Qué son los vínculos para los niños',
         desarrolloContenidos: true,
         subMenu: [
           {
             icono: 'far fa-file-alt',
             numero: '2.1',
-            titulo: 'Texto destacado',
+            titulo: 'El concepto de vínculo y su importancia',
             hash: 't_2_1',
           },
           {
             icono: 'far fa-file-alt',
             numero: '2.2',
-            titulo: 'Llamado a la acción - Recursos externos',
+            titulo:
+              'El impacto de los vínculos en el desarrollo emocional y social',
             hash: 't_2_2',
           },
           {
             icono: 'far fa-file-alt',
             numero: '2.3',
-            titulo: 'Audios',
+            titulo: 'El papel de los vínculos afectivos en la primera infancia',
             hash: 't_2_3',
           },
           {
             icono: 'far fa-file-alt',
             numero: '2.4',
-            titulo: 'Listado',
+            titulo: 'El contexto educativo y los vínculos afectivos',
             hash: 't_2_4',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '2.5',
-            titulo: 'Línea de tiempo',
-            hash: 't_2_5',
           },
         ],
       },
@@ -115,19 +98,20 @@ export default {
         nombreRuta: 'tema3',
         icono: 'far fa-file-alt',
         numero: '3',
-        titulo: 'Unidad',
+        titulo: 'Relaciones interpersonales en la infancia',
         desarrolloContenidos: true,
         subMenu: [
           {
             icono: 'far fa-file-alt',
             numero: '3.1',
-            titulo: 'Carrusel',
+            titulo:
+              'El juego como el motor principal de las relaciones sociales en la infancia',
             hash: 't_3_1',
           },
           {
             icono: 'far fa-file-alt',
             numero: '3.2',
-            titulo: 'Tablas',
+            titulo: 'El contexto escolar y las relaciones',
             hash: 't_3_2',
           },
         ],
@@ -170,109 +154,206 @@ export default {
   referencias: [
     {
       referencia:
-        'Zlackman, C. (2012). 100 años de moda. Sistema de Bibliotecas SENA:',
+        'Ainsworth, M. D. S. (1978). The Bowlby-Ainsworth attachment theory. In S. R. S. Van Ijzendoorn & M. D. S. La teoría del apego de Bowlby-Ainsworth. The attachment system in human development (pp. 36-60).',
+      link: null,
+    },
+    {
+      referencia:
+        'Berger, K. S. (2007). Psicologia del desarrollo. Infancia y adolescencia.',
       link:
-        'https://sena-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=sena_aleph000060086&vid=SENA&search_scope=sena_completo&tab=sena_completo&lang=es_ES&context=L',
+        'https://archive.org/details/psicologia-del-desarrollo-infancia-y-adolescencia-',
     },
     {
       referencia:
-        'Castellanos, O., Fumeque A., y Ramirez D. (2011). Análisis de tendencias: de la información hacia la innovación. Universidad Nacional de Colombia. Sistema de Bibliotecas SENA:',
+        'Bronfenbrenner, U. (1987). La ecología del desarrollo humano: experimentos en entornos naturales y diseñados.',
+      link: 'https://bibliotecadigital.mineduc.cl/handle/20.500.12365/1803',
+    },
+    {
+      referencia:
+        'Dahl, R. (2006). Matilda. Santillana Ediciones Generales, S.L. Alfaguara.',
+      link: null,
+    },
+    {
+      referencia:
+        'Descartes, R. (2001). Las pasiones del alma. (J. C. de la Vega, Ed.). Ediciones Akal.',
+      link: null,
+    },
+    {
+      referencia: 'Freud, S. (1920). Más allá del principio del placer.',
+      link: null,
+    },
+    {
+      referencia:
+        'Fuentes, A. S. (1 de diciembre de 2013). El desarrollo afectivo en educación infantil. Portal educativo: Educa y Aprende.',
       link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000007947',
+        'https://educayaprende.com/el-desarrollo-afectivo-en-educacion-infantil/',
+    },
+    {
+      referencia: 'Goleman, D. (1995). Emotional intelligence. Bantam Books.',
+      link: null,
     },
     {
       referencia:
-        '<em>Harpersbazaar</em>. (2019). La ropa que eliges afecta a tu estado de ánimo y cerebro, según expertos. En arpersbazaar.mx.',
+        'Gracia, E., & Herrero, J. (2006). La comunidad como fuente de apoyo social: Evaluación e implicaciones en los ámbitos individual y comunitario. Revista Latinoamericana de Psicología, 38(2), 299-312.',
+      link: null,
     },
     {
       referencia:
-        'Lafuente M., Navarro J., y Navarro J. (2005). Ilustración de moda. Sistema de Bibliotecas SENA',
+        'Husserl, E. (1970). Investigaciones lógicas. (J. M. de la Vega, Ed.). Ediciones Losada.',
+      link: null,
+    },
+    {
+      referencia:
+        'Marino, A. (7 de diciembre de 2018). Aristóteles (384 a.C.-322 a.C.). Historiando.org.',
+      link: 'https://historiando.org/aristoteles/',
+    },
+    {
+      referencia:
+        'Mimenza, O. C. (28 de junio de 2018). Jean Piaget: biografía del padre de la Psicología Evolutiva. pymOrganization.',
+      link: 'https://psicologiaymente.com/biografias/jean-piaget',
+    },
+    {
+      referencia:
+        'Mora Muñoz, J. (2024). La importancia del vínculo y la comunicación con el bebé en el vientre. Psicología y Mente.',
+      link: 'https://psicologiaymente.com/psicologia/importancia-',
+    },
+    {
+      referencia:
+        'Olweus, D. (1993). Bullying at school: What we know and what we can do. Wiley-Blackwell.',
+      link: null,
+    },
+    {
+      referencia:
+        'Páez, D. Zuleta, E. (2023) Dimensiones Culturales Individualismo Colectivismo. Studocu.',
       link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000025549',
+        'https://www.studocu.com/co/document/universidad-popular-del-cesar/psicologia-politica/corte-3-no-1-dimensiones-culturales-individualismo-colectivismo/28855917',
     },
     {
       referencia:
-        'Laver, J.,  Albizua, H., y Fortea, B. (1990). Breve historia del traje y la moda. Sistema de Bibliotecas SENA.',
-    },
-    {
-      referencia:
-        'Navarro, J.,  y Lafuente, M. (2010). Ilustración de moda: dibujo plano. Sistema de Bibliotecas SENA:',
+        'Pérez, H. J. (2017). El desarrollo afectivo según Jean Piaget. Revista Vinculando.',
       link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/q6j6k0/sena_aleph000023241',
+        'https://vinculando.org/wp-content/uploads/kalins-pdf/singles/desarrollo-afectivo-jean-piaget.pdf',
     },
     {
       referencia:
-        'Áciedad Americana de Ensayos y Materiales (ASTM). (2003). Textiles. Editorial Staff. [Book]. Sistema de Bibliotecas SENA.',
-      link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000051551',
+        'Quintero, L. J., & Leiva, M. Y. (2015). Desarrollo emocional y afectivo en la primera infancia. Universidad Nacional Abierta y a Distancia.',
+      link: null,
     },
     {
       referencia:
-        'Szkutnicka, B., Cuenca, C., Koyama, A. (2010). El dibujo técnico de moda paso a paso. Sistema de Bibliotecas SENA.',
+        'REBUELTA CHO, A. P., (2015). Un prisma en la diversidad: alternativas en transformación. Revista de Antropología Social, 24(), 460-465.',
+      link: null,
+    },
+    {
+      referencia:
+        'Regader, B. (29 de mayo de 2015). La Teoría del Desarrollo Psicosocial de Erik Erikson. pymOrganization.',
       link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000057728',
+        'https://psicologiaymente.com/desarrollo/teoria-del-desarrollo-psicosocial-erikson',
+    },
+    {
+      referencia:
+        "Rogers, C. R. (1961). On becoming a person: A therapist's view of psychotherapy. Houghton Mifflin.",
+      link: null,
+    },
+    {
+      referencia:
+        'Roncallo, C. P., Sánchez de Miguel, M., & Arranz Freijo, E. (2015). Vínculo materno-fetal: implicaciones en el desarrollo psicológico y propuesta de intervención en atención temprana. Escritos de Psicología, 8(2), 1-10.',
+      link: 'https://dx.doi.org/10.5231/psy.writ.2015.0706',
+    },
+    {
+      referencia:
+        'Shonkoff, J. P., & Phillips, D. A. (Eds.). (2000). From neurons to neighborhoods: The science of early childhood development. National Academies Press.',
+      link: null,
+    },
+    {
+      referencia:
+        'Spinoza, B. (2004). Ética. (A. R. de la Vega, Ed.). Ediciones Istmo.',
+      link: null,
+    },
+    {
+      referencia:
+        'Sternberg, R. J. (1986). A triangular theory of love. Psychological Review, 93(2), 119-135.',
+      link: null,
+    },
+    {
+      referencia:
+        'Teoría de la emoción de William James. (11 de marzo de 2023). Teorías de todo y para todo.',
+      link:
+        'https://teorias.ar/teorias/teoria-de-la-emocion-de-william-james/?',
+    },
+    {
+      referencia:
+        'Torrealba, J. (27 de diciembre de 2021). ¿Qué es la teoría de Wallon y cuáles son sus aportes? TuInfoSalud.',
+      link: 'https://www.tuinfosalud.com/articulos/teoria-de-wallon/',
+    },
+    {
+      referencia:
+        'Tortez, M. (1 de mayo, 2024). Afectividad: Definición, Evolución y Concepto en Psicología. Definipedia.',
+      link:
+        'https://definicion.conceptualista.com/concepto-de-afectividad-psicologia/',
+    },
+    {
+      referencia:
+        'Triglia, A. (25 de agosto de 2016). El experimento de Harlow y la privación materna: sustituyendo a la madre. pymOrganization.',
+      link:
+        'https://psicologiaymente.com/psicologia/experimento-harlow-privacion-materna',
+    },
+    {
+      referencia:
+        'Vygotsky, L. S. (1978). Mind in society: The development of higher psychological processes. Harvard University Press.',
+      link: null,
     },
   ],
   glosario: [
     {
-      termino: 'MoodBoard',
+      termino: 'Afectividad',
       significado:
-        'su traducción literal es mapa de inspiración y aunque su uso está muy asociado al ámbito de la decoración de interiores o la moda, <br/>realmente se utiliza en entornos creativos muy diversos, desde el diseño de productos o servicios al audiovisual o el diseño gráfico.',
+        'Capacidad de experimentar y expresar emociones y sentimientos. Es fundamental en el desarrollo emocional y social de una persona.',
     },
     {
-      termino: '<em>Suftware</em>',
+      termino: 'Amistad',
       significado:
-        'término informático que hace referencia a un programa o conjunto de programas de cómputo, así como datos, procedimientos y pautas que permiten realizar distintas tareas en un sistema informático.',
+        'Relación afectiva entre dos o más personas basada en la confianza, el respeto y el apoyo mutuo. En la infancia, las amistades son cruciales para el desarrollo de habilidades sociales y emocionales.',
     },
     {
-      termino: 'Pirognóstico',
+      termino: 'Descentración',
       significado:
-        'ensayo sin componentes reactivos, quiere decir, reconocimiento de los componentes, mediante la aplicación adecuada del fuego.',
+        'Proceso por el cual el niño empieza a considerar perspectivas y emociones de otros, alejándose de un enfoque egocéntrico. Es clave en el desarrollo afectivo según Piaget.',
     },
     {
-      termino: '<em>Áectores</em>',
+      termino: 'Egocentrismo',
       significado:
-        'en software de diseño, son líneas que se crean y permiten, expandir, modificar, al tamaño que sea sin pixelarse porque se unen por coordenadas matemáticas del programa y no se generan por números fijos.',
+        'Tendencia de los niños pequeños a ver el mundo desde su propia perspectiva, sin considerar las opiniones o sentimientos de los demás. Este concepto es importante en los primeros estadios de Piaget.',
     },
     {
-      termino: 'Moda',
+      termino: 'Empatía',
       significado:
-        'hábito repetitivo que identifica a una persona, una especie de presión social, que debe consumir, utilizar o hacer.',
+        'Capacidad de comprender y compartir los sentimientos de los demás, fundamental para la formación de vínculos afectivos saludables y el desarrollo social.',
     },
     {
-      termino: 'Diseña',
+      termino: 'Interacción',
       significado:
-        'actividad creativa orientada a soluciones idóneas a ciertas problemáticas.',
+        'Proceso de comunicación y relación entre el niño y sus cuidadores, esencial para el desarrollo emocional y la construcción de vínculos afectivos.',
     },
     {
-      termino: 'DIseño',
+      termino: 'Seguridad',
       significado:
-        'actividad creativa orientada a soluciones idóneas a ciertas problemáticas.',
+        'Sentimiento de confianza y protección que el niño experimenta cuando tiene vínculos afectivos estables y seguros con sus cuidadores.',
     },
     {
-      termino: 'Tipología',
+      termino: 'Simbolización',
       significado:
-        'estudio de los tipos o modelos que se usan para clasificar en diversas ciencias o disciplinas.',
+        'Capacidad de usar símbolos, como palabras o imágenes, para representar objetos o situaciones ausentes. Esta habilidad es crucial para el desarrollo cognitivo y afectivo en los estadios de Piaget.',
     },
     {
-      termino: 'Bidimensional',
+      termino: 'Socialización',
       significado:
-        'que se representa según su altura y su anchura y no su profundidad.',
+        'Proceso mediante el cual el niño aprende y adopta comportamientos y normas sociales a través de sus interacciones y vínculos con los demás.',
     },
     {
-      termino: 'Interés Inferior del menor',
+      termino: 'Valores',
       significado:
-        'término informático que hace referencia a un programa o conjunto de programas de cómputo, así como datos, procedimientos y pautas que permiten realizar distintas tareas en un sistema informático.',
-    },
-    {
-      termino: 'Interseccionalidad',
-      significado:
-        'término informático que hace referencia a un programa o conjunto de programas de cómputo, así como datos, procedimientos y pautas que permiten realizar distintas tareas en un sistema informático.',
-    },
-    {
-      termino: 'Interés superior del menor',
-      significado:
-        'término informático que hace referencia a un programa o conjunto de programas de cómputo, así como datos, procedimientos y pautas que permiten realizar distintas tareas en un sistema informático.',
+        'Principios o normas que guían el comportamiento y las decisiones de una persona. En los estadios de Piaget, los niños desarrollan un sistema de valores que influye en su afectividad y moralidad.',
     },
   ],
   complementario: [

@@ -2,9 +2,9 @@
 .curso-main-container.creditos-vista
   BannerInterno(subTitulo="SÍNTESIS")
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5
-    p.mb-4.mb-md-5 La unidad I:  Introducción al derecho y sus fuentes, establece los fundamentos teóricos esenciales para comprender el origen de las normas jurídicas y su aplicación. 
+    p.mb-4.mb-md-5 La Unidad 1: Afectividad, vínculo y relaciones, explora los aspectos esenciales que influyen en el desarrollo emocional y social en la infancia, destacando la importancia de los vínculos afectivos y su impacto en el crecimiento integral del niño. A lo largo de esta unidad, se estudian conceptos clave como la afectividad, el apego y las relaciones interpersonales, junto con teorías de autores reconocidos en la psicología y la filosofía que ayudan a comprender cómo las emociones y los vínculos determinan la interacción social y el bienestar emocional desde la primera infancia.
     figure
-      img(src='@/assets/componentes/sintesis-test.png', alt='Texto que describa la imagen')
+      img(src='@/assets/componentes/sintesis.png', alt='Texto que describa la imagen')
     
 
 </template>
