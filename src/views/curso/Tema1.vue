@@ -113,16 +113,16 @@
         figure
           img(src='@/assets/curso/unidad/img-16.png', alt='Texto que describa la imagen')
 
-      .tarjeta.bg-white.p-4(x="20%" y="20%" numero="+")
+      .tarjeta.bg-white.p-4(x="30.4%" y="26%" numero="+")
         .h5.mb-2 Aristóteles
         p Uno de los primeros pensadores que abordó la afectividad, según Marino (2018), fue Aristóteles (384-322 a. C.), quien en su obra "Ética a Nicómaco" discute el papel de las emociones en la vida ética. Aristóteles argumenta que las emociones son fundamentales para alcanzar la virtud, dado que nos ayudan a comprender y responder a las circunstancias, de manera adecuada. Según él, la moderación y el equilibrio emocional son esenciales para vivir una vida plena y virtuosa.
-      .tarjeta.bg-white.p-4(x="20%" y="20%" numero="+")
+      .tarjeta.bg-white.p-4(x="69%" y="26%" numero="+")
         .h5.mb-2 René Descartes 
         p En la modernidad, René Descartes (1596-1650), también dedicó parte de su obra a la afectividad. En "Las pasiones del alma" (1649), Descartes clasifica las emociones y examina cómo influyen en la razón y el comportamiento humano. Descartes sostiene que las pasiones pueden ser tanto beneficiosas como perjudiciales, dependiendo de cómo las gestionemos. Su enfoque resalta la importancia de la autoconciencia emocional y el control sobre nuestras pasiones.
-      .tarjeta.bg-white.p-4(x="20%" y="20%" numero="+")
+      .tarjeta.bg-white.p-4(x="69%" y="69%" numero="+")
         .h5.mb-2 Baruch Spinoza
         p Otro autor relevante es Baruch Spinoza (1632-1677), quien en su "Ética" (1677), presenta una visión holística de la afectividad. Spinoza propone que las emociones son una parte integral de nuestra naturaleza humana y que entenderlas nos permite alcanzar la libertad y la felicidad. Según Spinoza, nuestros afectos están interconectados con nuestra comprensión del mundo y de nosotros mismos, lo que nos lleva a un mayor conocimiento y autenticidad.
-      .tarjeta.bg-white.p-4(x="20%" y="20%" numero="+")
+      .tarjeta.bg-white.p-4(x="30.6%" y="69%" numero="+")
         .h5.mb-2 Edmund Husserl
         p En el siglo XX, la fenomenología de Edmund Husserl (1859-1938), y la filosofía existencial de Jean-Paul Sartre (1905-1980), también aportaron nuevas perspectivas sobre la afectividad. Husserl se enfocó en la experiencia subjetiva y cómo las emociones configuran nuestra percepción del mundo. Sartre, por su parte, examinó la angustia y la libertad, destacando cómo nuestras elecciones emocionales impactan nuestra existencia.
 
